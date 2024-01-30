@@ -1,0 +1,16 @@
+inherited fPrincipal_Moto360: TfPrincipal_Moto360
+  ClientHeight = 218
+  ClientWidth = 240
+  DesignerMasterStyle = 3
+  inherited Layout1: TLayout
+    Size.Width = 240.000000000000000000
+  end
+  inherited Layout3: TLayout
+    Size.Width = 240.000000000000000000
+    Size.Height = 17.000000000000000000
+  end
+  inherited Layout2: TLayout
+    Position.Y = 90.000000000000000000
+    Size.Width = 240.000000000000000000
+  end
+end
